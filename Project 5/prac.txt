@@ -1,0 +1,4 @@
+All In Good Time,13.22,Archenemy,Scheme,1
+BEWD,3,monster,dragon,3
+Enlightened Tutor,14.25,Eternal Masters,Instant,3
+Helm of Obedience,17.39,Alliances,Artifact,2
